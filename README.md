@@ -1,9 +1,8 @@
 <h1 align="center">Hi 👋, I'm Hubert aka Nhật Tiến</h1>
-<h3 align="center">AKS lover</h3>
+<h3 align="center">Ex-AKS lover</h3>
 
 
 - I'm currently a Technical Support Specialist for Azure Kubernetes Service at Itechwx, a Microsoft Partner.
-- Has achieved two certificates AZ-900 and 104, is on the journey to conquer AZ-700 and 305
 
 </p>
 
@@ -18,5 +17,8 @@
   </a>
   <a href="https://learn.microsoft.com/en-us/users/tinnguynnht-5820/credentials/a17ea8e4271f35bc?ref=https%3A%2F%2Fwww.linkedin.com%2F" target="_blank">
     <img src="https://images.credly.com/size/680x680/images/336eebfc-0ac3-4553-9a67-b402f491f185/azure-administrator-associate-600x600.png" width="150" height="150" alt="Microsoft Certified Associate Badge">
+  </a>
+  <a href="https://learn.microsoft.com/en-us/users/tinnguynnht-5820/credentials/a17ea8e4271f35bc?ref=https%3A%2F%2Fwww.linkedin.com%2F" target="_blank">
+    <img src="https://learn.microsoft.com/en-us/media/learn/certification/badges/microsoft-certified-expert-badge.svg" width="150" height="150" alt="Microsoft Certified Expert Badge">
   </a>
 </div>
