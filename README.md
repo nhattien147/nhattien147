@@ -2,7 +2,7 @@
 <h3 align="center">Ex-AKS lover</h3>
 
 
-- I'm currently a Technical Support Specialist for Azure Kubernetes Service at Itechwx, a Microsoft Partner.
+- I'm currently an System engineer at Upskills Việt Nam.
 
 </p>
 
